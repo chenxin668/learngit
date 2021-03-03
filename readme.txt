@@ -6,3 +6,4 @@ creating a new branch is quick and simple
 =======
 learn branch ,creat a new branch is quick and simple
 >>>>>>> feature1
+add merge
