@@ -1,4 +1,8 @@
 Git is a distributed version control system.
 Git is free software
 GIT learn secord day
-creating a new branch is quick & simple
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+learn branch ,creat a new branch is quick and simple
+>>>>>>> feature1
