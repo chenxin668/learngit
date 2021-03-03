@@ -8,3 +8,4 @@ learn branch ,creat a new branch is quick and simple
 >>>>>>> feature1
 add merge
 merge with ff
+learn bug branch
